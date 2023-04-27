@@ -1,0 +1,32 @@
+{
+  "name": "eugenics",
+  "version": "1.0.0",
+  "description": "A functional genetic algorithm library",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Aurora2500/eugenics-ts.git"
+  },
+  "keywords": [
+    "genetic-algorithm"
+  ],
+  "author": "Aurora Zuoris",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aurora2500/eugenics-ts/issues"
+  },
+  "homepage": "https://github.com/Aurora2500/eugenics-ts#readme",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.59.1",
+    "@typescript-eslint/parser": "^5.59.1",
+    "eslint": "^8.39.0",
+    "typescript": "^5.0.4"
+  }
+}

@@ -61,3 +61,13 @@ const {population: newPopulation} = evolveSimple(population, {
 	ngen: 100
 });
 ```
+
+## Contributing
+
+To contribute, please follow these steps:
+
+1. Fork the repository
+2. Create a new branch for your feature
+3. Make your changes
+4. Push your changes to your fork
+5. Submit a pull request

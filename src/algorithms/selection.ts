@@ -1,4 +1,4 @@
-import { argmax } from 'util.js';
+import { argmax } from '../util.js';
 
 export const selRandom = <TGene>(population: TGene[], fitnesses: number[], k: number): [TGene[], number[]] => {
 	const selected: TGene[] = [];

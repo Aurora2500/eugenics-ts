@@ -1,5 +1,5 @@
-import type { AlgorithmOptions, AlgorithmParameters, EvolutionResult, StatsFunctions, StatsResults } from 'types';
-import { mapObj } from 'util.js';
+import type { AlgorithmOptions, AlgorithmParameters, EvolutionResult, StatsFunctions, StatsResults } from '../types';
+import { mapObj } from '../util.js';
 
 export const defaultOptions = {
 	ngen: 1,
